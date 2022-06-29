@@ -59,10 +59,5 @@ export class Cuenta
             cuentaDestino.depositoEnCuenta(valor);
     
         }
-
-        prueba(){
-
-            console.log('metodo padre');
-        }
             
 }
